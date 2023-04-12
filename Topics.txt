@@ -1,1 +1,7 @@
+11th April 2023
 Varaibales - https://jsfiddle.net/deepak104080/m57vngja/26/
+
+12th April 2023
+Variables and Conditions - https://jsfiddle.net/deepak104080/5fpuwvbh/36/
+Loops - https://jsfiddle.net/deepak104080/6dLexkum/6/
+Functions - https://jsfiddle.net/deepak104080/qzhr90t7/49/
