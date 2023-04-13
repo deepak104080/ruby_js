@@ -5,3 +5,11 @@ Varaibales - https://jsfiddle.net/deepak104080/m57vngja/26/
 Variables and Conditions - https://jsfiddle.net/deepak104080/5fpuwvbh/36/
 Loops - https://jsfiddle.net/deepak104080/6dLexkum/6/
 Functions - https://jsfiddle.net/deepak104080/qzhr90t7/49/
+
+13th April 2023
+Type Conversion and Coercion - https://jsfiddle.net/deepak104080/g31z6cny/51/
+Extra Articles - https://www.programiz.com/javascript/comparison-logical
+Bitwise Operators - Extra Articles - https://www.geeksforgeeks.org/javascript-bitwise-operators/
+Comparison and Logical Operators - https://www.programiz.com/javascript/comparison-logical
+Operators - https://jsfiddle.net/deepak104080/mnharc02/25/
+Arrow Function - https://jsfiddle.net/deepak104080/mshq0nx8/9/
