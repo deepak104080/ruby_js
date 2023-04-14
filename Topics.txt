@@ -13,3 +13,9 @@ Bitwise Operators - Extra Articles - https://www.geeksforgeeks.org/javascript-bi
 Comparison and Logical Operators - https://www.programiz.com/javascript/comparison-logical
 Operators - https://jsfiddle.net/deepak104080/mnharc02/25/
 Arrow Function - https://jsfiddle.net/deepak104080/mshq0nx8/9/
+
+14th April 2023
+Hoisting - https://jsfiddle.net/deepak104080/wrdauhp0/44/
+Scope - https://jsfiddle.net/deepak104080/mbsxw1e8/15/
+var, let, const - https://jsfiddle.net/deepak104080/yv6g2okr/20/
+
