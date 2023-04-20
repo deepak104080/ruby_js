@@ -23,3 +23,12 @@ var, let, const - https://jsfiddle.net/deepak104080/yv6g2okr/20/
 19th April 2023
 try catch - https://jsfiddle.net/deepak104080/zewuox3v/32/
 Array - https://jsfiddle.net/deepak104080/9j3k2uh8/20/
+
+
+20th April 2023
+
+JS Arrow functions, JS Functions, JS infinite loops, JS for in, JS do while loop ... - Post Class
+Sum of Product of Digits of a given number
+Link - https://my.newtonschool.co/playground/code/karujb4wuefd/
+Array Methods - https://jsfiddle.net/deepak104080/s9Lhv8df/66/
+Object - https://jsfiddle.net/deepak104080/b9fv7tdy/7/
