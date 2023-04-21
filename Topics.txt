@@ -32,3 +32,17 @@ Sum of Product of Digits of a given number
 Link - https://my.newtonschool.co/playground/code/karujb4wuefd/
 Array Methods - https://jsfiddle.net/deepak104080/s9Lhv8df/66/
 Object - https://jsfiddle.net/deepak104080/b9fv7tdy/7/
+
+
+21st April 2023
+Assignment
+JS Properties & Methods of Array - JS Basics of objects, JS Lexical Envi
+Link - https://my.newtonschool.co/playground/code/lg6w2cv4ctw6/
+
+Iterate the Object - JS Properties of Array, Js array, Diff between params
+Link - https://my.newtonschool.co/playground/code/i3f0cx3ovokw/
+
+Object Methods - https://jsfiddle.net/deepak104080/x3cavj9s/17/
+Callback Function - https://jsfiddle.net/deepak104080/j08cuf1h/9/
+HOF - Higher Order Function - https://jsfiddle.net/deepak104080/yd72jqr9/15/
+Array Loop Methods - https://jsfiddle.net/deepak104080/pzo0tm8q/17/
