@@ -44,5 +44,15 @@ Link - https://my.newtonschool.co/playground/code/i3f0cx3ovokw/
 
 Object Methods - https://jsfiddle.net/deepak104080/x3cavj9s/17/
 Callback Function - https://jsfiddle.net/deepak104080/j08cuf1h/9/
-HOF - Higher Order Function - https://jsfiddle.net/deepak104080/yd72jqr9/15/
+HOF - Higher Order Function - https://jsfiddle.net/deepak104080/yd72jqr9/17/
 Array Loop Methods - https://jsfiddle.net/deepak104080/pzo0tm8q/17/
+
+
+
+22nd April 2023
+JS Built-In Objects and Math - https://jsfiddle.net/deepak104080/4ftpjqk2/17/
+Date - https://jsfiddle.net/deepak104080/7ae09gcz/8/
+String Methods - https://jsfiddle.net/deepak104080/s8906jfm/16/
+DOM Concept - https://jsfiddle.net/deepak104080/f3ohm6d8/21/
+Image - https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/1200px-DOM-model.svg.png
+DOM Selectors - https://jsfiddle.net/deepak104080/hguve5yd/9/

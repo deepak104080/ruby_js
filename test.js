@@ -1,3 +1,4 @@
+console.log(document)
 console.log('Hello world in external js file.');
 
 
