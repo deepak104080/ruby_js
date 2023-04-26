@@ -49,10 +49,24 @@ Array Loop Methods - https://jsfiddle.net/deepak104080/pzo0tm8q/17/
 
 
 
-22nd April 2023
+25th April 2023
 JS Built-In Objects and Math - https://jsfiddle.net/deepak104080/4ftpjqk2/17/
 Date - https://jsfiddle.net/deepak104080/7ae09gcz/8/
 String Methods - https://jsfiddle.net/deepak104080/s8906jfm/16/
 DOM Concept - https://jsfiddle.net/deepak104080/f3ohm6d8/21/
 Image - https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/1200px-DOM-model.svg.png
-DOM Selectors - https://jsfiddle.net/deepak104080/hguve5yd/9/
+DOM Selectors - https://jsfiddle.net/deepak104080/hguve5yd/14/
+
+
+
+26th April 2023
+Qs Practice 1 - https://jsfiddle.net/deepak104080/au2ev4wg/11/
+Qs Practice 2 - https://jsfiddle.net/deepak104080/u5dyjh6a/6/
+
+Assignment
+JS Dynamic Function Input - JS Basics of objects, JS Lexical Environmet
+JS Dynamic Function Input - https://my.newtonschool.co/playground/code/4mm7z1cqfvdq/
+String - https://my.newtonschool.co/playground/code/4jdl79vpb9h2/
+
+JS Lexical Environment, JS Default Parameters, JS Recursion, JS Math, JS String, ... - In Class
+Javascript Recursion - https://my.newtonschool.co/playground/code/6f4c0zkggdts/
