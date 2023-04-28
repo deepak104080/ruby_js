@@ -23,6 +23,17 @@ window.onload = function() {
     document.getElementById('engine').hasAttribute('height')
     document.getElementById('engine').hasAttribute('width')
     document.getElementById('engine').removeAttribute('width')
+
+
+
+
+    const img1 = document.getElementById('image1');
+    img1.setAttribute('src', 'https://assets-in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:ote-NTUrIEV2ZW50cw%3D%3D,otc-FFFFFF,otf-Roboto,ots-64,ox-48,oy-320,ott-b:w-300:q-80/workshop-and-more-web-collection-202211140440.png');
+
+    const img2 = document.getElementById('image2');
+    img2.setAttribute('src', 'https://assets-in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:ote-MTArIEV2ZW50cw%3D%3D,otc-FFFFFF,otf-Roboto,ots-64,ox-48,oy-320,ott-b:w-300:q-80/kids-zone-collection-202211140440.png');
+
+
 }
 
 
