@@ -70,3 +70,19 @@ String - https://my.newtonschool.co/playground/code/4jdl79vpb9h2/
 
 JS Lexical Environment, JS Default Parameters, JS Recursion, JS Math, JS String, ... - In Class
 Javascript Recursion - https://my.newtonschool.co/playground/code/6f4c0zkggdts/
+
+
+
+28th April 2023
+DOM - HTML and JS files
+
+29th April 2023
+JS Array methods - Array loop methods
+JS Array methods - https://my.newtonschool.co/playground/code/yfezsbg2e1zc
+High Performers - https://my.newtonschool.co/playground/code/7dllm8ogmzhj
+JS callbacks - https://my.newtonschool.co/playground/code/vm5yedzabdn9
+
+
+
+Dark Theme - https://my.newtonschool.co/playground/markup/7f8nvtp7s7q0
+The div function - https://my.newtonschool.co/playground/markup/aw8rn9l3hqk9
