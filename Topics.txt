@@ -86,3 +86,11 @@ JS callbacks - https://my.newtonschool.co/playground/code/vm5yedzabdn9
 
 Dark Theme - https://my.newtonschool.co/playground/markup/7f8nvtp7s7q0
 The div function - https://my.newtonschool.co/playground/markup/aw8rn9l3hqk9
+
+
+
+1st May 2023
+Practice Qs - https://jsfiddle.net/deepak104080/xqz573hs/10/
+DOM Events - https://jsfiddle.net/deepak104080/2kt8yxv5/22/
+DOM Events - In Class
+JS Form Validation - https://my.newtonschool.co/playground/markup/sj0v6my7euyl/
