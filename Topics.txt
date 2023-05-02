@@ -94,3 +94,19 @@ Practice Qs - https://jsfiddle.net/deepak104080/xqz573hs/10/
 DOM Events - https://jsfiddle.net/deepak104080/2kt8yxv5/22/
 DOM Events - In Class
 JS Form Validation - https://my.newtonschool.co/playground/markup/sj0v6my7euyl/
+
+
+
+2nd May 2023
+Event Listener - https://jsfiddle.net/deepak104080/6ohbLqmu/25/
+Event Propagation, Bubbling and Capturing - https://jsfiddle.net/deepak104080/o2ab9sr6/28/
+
+Break the Flow - Event bubbling, capturing and propagation, JS Value vs reference types - In Class
+https://my.newtonschool.co/playground/markup/loh3cfezy7us
+Peek-a-boo - DOM Events - In Class
+https://my.newtonschool.co/playground/markup/qkvqwiobrx59
+
+Hot or Cold: Part-1 - DOM Events - In Class
+https://my.newtonschool.co/playground/markup/pi3j74csf7kq
+
+To Do List - https://jsfiddle.net/deepak104080/j8z3vdbt/2/
