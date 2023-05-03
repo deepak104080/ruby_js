@@ -110,3 +110,15 @@ Hot or Cold: Part-1 - DOM Events - In Class
 https://my.newtonschool.co/playground/markup/pi3j74csf7kq
 
 To Do List - https://jsfiddle.net/deepak104080/j8z3vdbt/2/
+
+
+
+3rd May 2023
+BOM - https://jsfiddle.net/deepak104080/4qbygr3f/29/
+ES6 Features - https://jsfiddle.net/deepak104080/dqczsgne/13/
+ECMAScript Versions - https://en.wikipedia.org/wiki/ECMAScript_version_history
+Session vs Cookie - https://www.javatpoint.com/session-vs-cookies
+Session vs Cookie - https://www.geeksforgeeks.org/difference-between-session-and-cookies/
+LocalStorage vs SessionStorage - https://www.geeksforgeeks.org/difference-between-local-storage-session-storage-and-cookies/
+HTMLCollection vs NodeList - https://jsfiddle.net/deepak104080/4679jfmb/4/
+
