@@ -131,3 +131,12 @@ Closure - https://jsfiddle.net/deepak104080/emu5pfLz/35/
 Todo List - JS - DOM Events - In Class - 
 https://my.newtonschool.co/playground/markup/xjwml010bfgd/
 https://jsfiddle.net/deepak104080/j8z3vdbt/29/
+
+
+
+5th May 2023
+OOPS - https://jsfiddle.net/deepak104080/1nwfdotq/23/
+Object - Adding Properties - https://jsfiddle.net/deepak104080/2j5tyfcL/15/
+Object - Removing Properties - https://jsfiddle.net/deepak104080/sxc12vdm/8/
+Destructuring - https://jsfiddle.net/deepak104080/98j5xwse/14/
+Deep Copy vs Shallow Copy - https://jsfiddle.net/deepak104080/h2rzuLtm/28/
