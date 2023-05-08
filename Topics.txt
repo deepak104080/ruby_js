@@ -140,3 +140,15 @@ Object - Adding Properties - https://jsfiddle.net/deepak104080/2j5tyfcL/15/
 Object - Removing Properties - https://jsfiddle.net/deepak104080/sxc12vdm/8/
 Destructuring - https://jsfiddle.net/deepak104080/98j5xwse/14/
 Deep Copy vs Shallow Copy - https://jsfiddle.net/deepak104080/h2rzuLtm/28/
+
+
+
+8th May 2023
+ES6 Template Literal - https://jsfiddle.net/deepak104080/vyze9Lg8/4/
+Assignments - 
+Order count - JS Closure - JS spread operator, JS Rest Operator - https://my.newtonschool.co/playground/code/qw86350jdrpk
+Construct Stopwatch - JS spread operator, JS Rest Operator, closur - https://my.newtonschool.co/playground/code/nqbcm6m0bs2q
+Event Propagation - JS Value vs reference types, Event bubbling, capturing and propagation - Post Class - 
+https://my.newtonschool.co/playground/markup/r64f6cjg3v1i
+Dynamic - css - frontend - DOM Events - Post Class - https://my.newtonschool.co/playground/markup/hb3b7at3o1rm
+
