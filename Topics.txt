@@ -152,3 +152,9 @@ Event Propagation - JS Value vs reference types, Event bubbling, capturing and p
 https://my.newtonschool.co/playground/markup/r64f6cjg3v1i
 Dynamic - css - frontend - DOM Events - Post Class - https://my.newtonschool.co/playground/markup/hb3b7at3o1rm
 
+
+
+
+9th May 2023
+Output based Qs - https://jsfiddle.net/deepak104080/7b64sqk5/41/
+Prototype - https://jsfiddle.net/deepak104080/5tqspjce/32/
