@@ -59,3 +59,21 @@ window.onload = function() {
 
 
 //HW - https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics/numbers-table.png
+
+
+//Async JS
+// JS Engine/Browsers
+// timer functionality - setTimeout, setInterval, clearTimeout, clearInterval
+// all type of API calls (HTTP/SMTP/SSH/FTP) - communication/data transfer with other server
+
+
+
+//js engine handling of async behaviour
+// Event Loop
+
+
+
+//how code handles asyn js
+
+// callback functions
+// ES6 - Promise / async await (callback methods internally)

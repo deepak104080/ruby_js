@@ -158,3 +158,13 @@ Dynamic - css - frontend - DOM Events - Post Class - https://my.newtonschool.co/
 9th May 2023
 Output based Qs - https://jsfiddle.net/deepak104080/7b64sqk5/41/
 Prototype - https://jsfiddle.net/deepak104080/5tqspjce/32/
+
+
+
+10th May 2023
+Sync vs Async - https://www.outsystems.com/blog/-/media/images/blog/posts/asynchronous-vs-synchronous-programming/asynchronous-vs-synchronous-programming-01.png?h=450&w=750&updated=20220111091642&hash=1A2D1157767496258612BF37F96D936A
+JS Sync vs Async - https://www.freecodecamp.org/news/content/images/2021/09/freeCodeCamp-Cover-2.png
+Async JS Image / Event Loop - https://miro.medium.com/v2/resize:fit:752/1*7GXoHZiIUhlKuKGT22gHmA.png
+Async JS - https://jsfiddle.net/deepak104080/45gxyw8L/14/
+Async JS Example - https://jsfiddle.net/deepak104080/4qs3up8a/5/
+Async JS - Output based Qs - https://jsfiddle.net/deepak104080/xbgko1Ld/19/
