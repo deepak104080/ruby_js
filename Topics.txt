@@ -168,3 +168,20 @@ Async JS Image / Event Loop - https://miro.medium.com/v2/resize:fit:752/1*7GXoHZ
 Async JS - https://jsfiddle.net/deepak104080/45gxyw8L/14/
 Async JS Example - https://jsfiddle.net/deepak104080/4qs3up8a/5/
 Async JS - Output based Qs - https://jsfiddle.net/deepak104080/xbgko1Ld/19/
+
+
+
+
+11th May 2023
+Async Js Practice Qs - https://jsfiddle.net/deepak104080/t3omdLf6/13/
+OOPS - https://jsfiddle.net/deepak104080/1nwfdotq/29/
+OOPS - Constructor Function - https://jsfiddle.net/deepak104080/s84atouh/4/
+OOPS 4 Pillars - https://jsfiddle.net/deepak104080/pdauq8wk/24/
+this - call apply bind - https://jsfiddle.net/deepak104080/tjw1z2qg/17/
+
+
+Assignments
+Employee Constructor - JS spread operator, closure, JS Basic OOPS, 4 pillars, JS Factories 
+https://my.newtonschool.co/playground/code/one5xwr4rsrx
+Appointment Constructor - JS Date, JS Enumerating properties of objects, JS Adding or rem
+https://my.newtonschool.co/playground/code/827tj7u3kn7p
