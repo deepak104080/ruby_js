@@ -185,3 +185,33 @@ Employee Constructor - JS spread operator, closure, JS Basic OOPS, 4 pillars, JS
 https://my.newtonschool.co/playground/code/one5xwr4rsrx
 Appointment Constructor - JS Date, JS Enumerating properties of objects, JS Adding or rem
 https://my.newtonschool.co/playground/code/827tj7u3kn7p
+
+
+
+
+W3C - World Wide Web Consortium
+ACM
+IEEE
+ICANN
+
+URL and TLD - https://static.semrush.com/blog/uploads/media/c8/22/c822a1c5f9dc879108dd69e37b698656/sjPzJFCy11Ir5ecbZCpwaf8Mnpn4GlUXCK2WUTsTF-dB4H2F2ImhyDxn2RTG5AWrryumyow4y7qX6zZJY1pW4G7JNXfvWzDldX5Udnhtw7_Usp_eqANHx0D0hREUrKMEGVScZIdjQT2ShEQDt6EdDsU.jpeg
+
+Other business works - company registration - mca, real estate/marketing
+
+IT Works - website / mobile apps(later)
+1) Domain - ICANN / Domain Name Registrar (GoDaddy, Hostgator, Bigrock)
+Dev works
+2) Hosting - Cloud (Google Cloud, AWS, Microsoft Azure, Cisco, IBM)
+cPanel, WHM Panel, 
+3) SSL and other features
+
+12th May 2023
+ES6 Map and Set - https://jsfiddle.net/deepak104080/g0cmpdz3/16/
+API Calls in JS - https://jsfiddle.net/deepak104080/0eL6avth/7/
+
+Assignments
+Cars and Bikes - JS Basic OOPS, 4 pillars, JS Factories & Factory
+https://my.newtonschool.co/playground/code/kql8pfzfmtrq
+
+Reset Constructor - JS Basic OOPS, 4 pillars, JS Factories & Facto
+https://my.newtonschool.co/playground/code/5oeo9fnml4vi

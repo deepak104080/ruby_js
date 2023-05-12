@@ -55,6 +55,22 @@ window.onload = function() {
     
     document.body.appendChild(divElement); 
 
+
+    let obj = {name: 'deepak', age: 111111111111}
+    window.localStorage.setItem('loginStatus', true);
+    localStorage.setItem('username', 'deepak')
+    localStorage.setItem('obj', JSON.stringify(obj))
+
+
+    console.log(localStorage.getItem('loginStatus'))
+    console.log(localStorage.getItem('username'))
+    console.log(localStorage.getItem('obj'))
+
+    localStorage.removeItem('username');
+
+    localStorage.clear()
+
+
 }
 
 
