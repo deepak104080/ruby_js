@@ -201,13 +201,14 @@ Other business works - company registration - mca, real estate/marketing
 IT Works - website / mobile apps(later)
 1) Domain - ICANN / Domain Name Registrar (GoDaddy, Hostgator, Bigrock)
 Dev works
-2) Hosting - Cloud (Google Cloud, AWS, Microsoft Azure, Cisco, IBM)
+2) Server / Hosting - Cloud (Google Cloud, AWS, Microsoft Azure, Cisco, IBM)
 cPanel, WHM Panel, 
 3) SSL and other features
 
 12th May 2023
 ES6 Map and Set - https://jsfiddle.net/deepak104080/g0cmpdz3/16/
 API Calls in JS - https://jsfiddle.net/deepak104080/0eL6avth/7/
+LocalStorage - fresh.js
 
 Assignments
 Cars and Bikes - JS Basic OOPS, 4 pillars, JS Factories & Factory
@@ -215,3 +216,44 @@ https://my.newtonschool.co/playground/code/kql8pfzfmtrq
 
 Reset Constructor - JS Basic OOPS, 4 pillars, JS Factories & Facto
 https://my.newtonschool.co/playground/code/5oeo9fnml4vi
+
+
+
+13th May 2023
+
+Front End 
+Shop 1 - IOS App
+Shop 2 - Android App
+Shop 3 - Web Portal 1
+Shop 4 - Web Portal 2
+
+Loading Auto - API (JSON)
+
+Godown (Database) - Back End (Intelligent Person send required clothes to all 3 shops)
+
+REST API - Representational State Transfer API (HTTP)
+
+GET - Transfer data from BE to FE
+POST - Transfer data from FE to BE
+PUT - Transfer data from FE to BE and Update
+DELETE - Delete data on Back End
+
+
+let obj = {
+    firstname: 'aef',
+    lastname: 'aewf',
+    age: 33333
+}
+
+
+let obj = {
+    'firstname': 'aef',
+    'lastname': 'aewf',
+    'age': 33333
+}
+
+Event Loop with Promise - https://res.cloudinary.com/practicaldev/image/fetch/s--bSksQAGJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/taw7z9m1m12hlmpaqxjs.jpg
+Promise Image - https://dotnettutorials.net/wp-content/uploads/2020/08/word-image-149.png
+REST API Image - https://velog.velcdn.com/images/0andwild/post/d5804ef2-ddad-4309-ba51-0e3d43389cac/image.png
+Promise - https://jsfiddle.net/deepak104080/9ax6z2qs/12/
+API Call with fetch and Promise - https://jsfiddle.net/deepak104080/nvsj1h2q/22/
