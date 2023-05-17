@@ -71,6 +71,58 @@ window.onload = function() {
     localStorage.clear()
 
 
+
+
+    // fetch('https://api.coindesk.com/v1/bpi/currentprice.json')
+    // .then(res => res.json())
+    // .then(data => console.log(data))
+    // .catch(error => console.log(error))
+
+
+
+    // async function abc () {
+    //   let temp = await fetch('https://api.coindesk.com/v1/bpi/currentprice.json')
+    //   let data = await temp.json()
+    //   console.log(data.bpi.USD)
+    //   }
+    //   abc()
+
+
+
+    function job() {
+      return new Promise(function(resolve, reject) {
+          reject();
+        });
+      }
+
+      let promise = job();
+
+      promise
+      .then(function() {
+      console.log('Success 1');
+      })
+      .then(function() {
+      console.log('Success 2');
+      })
+      .then(function() {
+      console.log('Success 3');
+      })
+      .catch(function() {
+      console.log('Error 1');
+      })
+      .then(function() {
+      console.log('Success 4');
+      });
+
+
+
+      // axios vs fetch
+      // parsed JSON -- stringified json 
+      // response.data -- response
+
+
+
+
 }
 
 
@@ -93,3 +145,38 @@ window.onload = function() {
 
 // callback functions
 // ES6 - Promise / async await (callback methods internally)
+
+
+
+
+
+// Object - keys, values, entries
+// Object - create, assign
+
+
+// Scope - local vs global, function
+
+// abc is function or not
+// object is empty or not
+
+
+// obj = {}
+
+// obj = {
+//     name: 'test'
+// }
+
+
+// Object.keys(obj).length == 0
+
+
+// break continue
+
+// for() {
+//     if () - continue
+//     alweif
+//     awieuf
+//     awieufAED
+//     dB4H2F2ImhyDxn2RTG5AWrryumyow4y7qX6zZJY1pW4G7JNXfvWzDldX5Udnhtw7_Usp_eqANHx0D0hREUrKMEGVScZIdjQT2ShEQDt6EdDsU
+//     continue
+// }

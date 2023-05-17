@@ -268,3 +268,10 @@ Promise all and any - https://jsfiddle.net/deepak104080/du9a04o5/12/
 Assignments
 Product Constructor - Js Advanced, When to use inheritance, Polym - https://my.newtonschool.co/playground/code/e7wgad3gxsst
 ES6 this keyword - JS Private properties & methods, Property Desc - https://my.newtonschool.co/playground/code/y3391sq18j4m
+
+
+
+17th May 2023
+Function Curry - https://jsfiddle.net/deepak104080/904sabgm/3/
+Curry Example - https://jsfiddle.net/deepak104080/h2fwpcq5/17/
+Codes in fresh.js
