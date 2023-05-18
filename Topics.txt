@@ -275,3 +275,16 @@ ES6 this keyword - JS Private properties & methods, Property Desc - https://my.n
 Function Curry - https://jsfiddle.net/deepak104080/904sabgm/3/
 Curry Example - https://jsfiddle.net/deepak104080/h2fwpcq5/17/
 Codes in fresh.js
+
+
+
+18th May 2023
+Function Curry Example - https://jsfiddle.net/deepak104080/fz8karp3/4/
+Polyfill - https://jsfiddle.net/deepak104080/ou4fzhgv/22/
+static function - https://jsfiddle.net/deepak104080/9jnzr76u/12/
+Add key value through function - https://jsfiddle.net/deepak104080/gkft9yoq/4/
+
+Assignment
+IPL Points Table (with fetch) - JS Private properties & methods, Avoid Extending the Built-in Objects, Mixins, J
+https://my.newtonschool.co/playground/markup/ljjsl9hajlpu
+
